@@ -54,4 +54,4 @@ Usando o hexdump podemos visualizar as diferenças entre a imagem original e a i
 $ hd in.png > in.txt
 $ hd in.png.append > out.txt
 ```
-![hexdump](https://github.com/tpaphysics/ddappend/blob/master/docs/hexdump.png)
+![hexdump](https://github.com/tpaphysics/dd_append/blob/master/docs/hexdump.png)
