@@ -1,5 +1,9 @@
 ## Adicionando executável ELF em imagens com o comando dd
 
+<p align="center">
+  <img align="right" width="150" height="150" src="https://github.com/tpaphysics/dd_append/blob/master/in.png?raw=true">
+</p>
+
 O dd é uma ferramenta de linha de comando de baixo nível, presente nativamente como utilitário do kernel linux. O utilitário dd permite converter, formatar e copiar arquivos de discos preservando os mesmos dados e partições do disco de origem, sendo muito utilizado para efetuar backup de partições. Para mais detalhes, digite no terminal linux, o comando: 
 ```
 $ man dd
