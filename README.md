@@ -52,7 +52,7 @@ Teste o arquivo extraído:
 ```
 $ ./in.png.append.out 
 ```
-## Visualizualização interativa 
+## Visualizualização
 Usando o hexdump podemos visualizar as diferenças entre a imagem original e a imagem concatenada com o binário ELF:
 ```
 $ hd in.png > in.txt
